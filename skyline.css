@@ -361,14 +361,14 @@ nav ul li a:hover {
   color: #a8dadc;
 }
 @media (max-width: 768px) {
-  .social-media {
+  .media {
     flex-wrap: wrap;
     justify-content: center;
     gap: 15px;
     margin-top: 15px;
   }
 
-  .social-media a {
+  .media a {
     font-size: 18px;
     padding: 8px;
   }
